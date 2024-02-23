@@ -1,3 +1,7 @@
+Disciplina: Desenvolvimento Web
+Período: 2
+Ano: 2024
+
 1 - Python
 Referência: https://www.python.org/doc/essays/blurb/
 Python é uma linguagem de programação. Uma linguagem de programação abstrai processos do computador (em linguagem de máquina) para uma linguagem mais próxima da nossa. Com isso não precisamos manipular diretamente "0"s e "1"s para gerar e manipular aplicações e processor da máquina.
