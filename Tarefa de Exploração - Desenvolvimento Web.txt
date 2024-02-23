@@ -1,0 +1,24 @@
+1 - Python
+Referência: https://www.python.org/doc/essays/blurb/
+Python é uma linguagem de programação. Uma linguagem de programação abstrai processos do computador (em linguagem de máquina) para uma linguagem mais próxima da nossa. Com isso não precisamos manipular diretamente "0"s e "1"s para gerar e manipular aplicações e processor da máquina.
+Se relaciona aos tópicos ...
+
+2 - Git
+Referência: https://en.wikipedia.org/wiki/Git
+Git é um sistema de versionamento. Ele ajuda o programador a manter um histórico organizado de diferentes versões dos seus códigos e a trabalhar com outros desenvolvedores, visto que é possível gerar desmembramentos e junções na linha do tempo (histórico) dos arquivos.
+Se relaciona aos tópicos ...
+
+3 - VSCode
+Referência: https://en.wikipedia.org/wiki/Visual_Studio_Code
+VSCode é um editor de código e texto. Apesar de ter uma função base idêntica ao de um bloco de notas, por exemplo, o mesmo auxilia o programador no seu trabalho, organizando melhor o aspecto visual, completando pedaços de código automaticamente, etc.
+Se relaciona aos tópicos ...
+
+4 - DB Browser for SQLite
+Referência: https://sqlitebrowser.org/
+É uma ferramenta visual para criação e edição de arquivos de bancos de dados.
+Se relaciona aos tópicos ...
+
+5 - Browser
+Referência:
+
+Se relaciona aos tópicos ...
