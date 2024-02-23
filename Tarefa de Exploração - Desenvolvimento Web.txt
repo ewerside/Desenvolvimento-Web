@@ -23,6 +23,6 @@ Referência: https://sqlitebrowser.org/
 Se relaciona aos tópicos ...
 
 5 - Browser
-Referência:
-
+Referência: https://www.mozilla.org/en-US/firefox/browsers/what-is-a-browser/
+Um browser é um programa que te permite visualizar e interagir com o conteúdo da internet. Através de certos protocolos pré-estabelecidos, ele entende como deve gerar a visualização de um certo conteúdo que você está tentando acessar no seu dispositivo (que pode variar de um celular a uma TV). 
 Se relaciona aos tópicos ...
