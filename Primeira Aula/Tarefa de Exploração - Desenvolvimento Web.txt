@@ -2,27 +2,29 @@ Disciplina: Desenvolvimento Web
 Período: 2
 Ano: 2024
 
+*Obs: Como tudo se conecta, é difícil separar qual tópico se relaciona com o que. Por exemplo, eu poderia relacionar Python aos tópicos de HTML, CSS e Javascript, caso o desenvolvimento da estrutura do website seja realizado com bibliotecas Python. (Sem contar a parte de framework considerando Django ou Flask.) Porém considerei que será mais a parte de APIs que utilizarão Python. O VSCode é utilizado em praticamente todas as partes do projeto e assim vai... Portanto, no continuum da abstração, tentei ter uma abordagem que se aproxima mais do concreto.
+
 1 - Python
 Referência: https://www.python.org/doc/essays/blurb/
 Python é uma linguagem de programação. Uma linguagem de programação abstrai processos do computador (em linguagem de máquina) para uma linguagem mais próxima da nossa. Com isso não precisamos manipular diretamente "0"s e "1"s para gerar e manipular aplicações e processor da máquina.
-Se relaciona aos tópicos ...
+Se relaciona aos tópicos 4, 13 e 14.
 
 2 - Git
 Referência: https://en.wikipedia.org/wiki/Git
 Git é um sistema de versionamento. Ele ajuda o programador a manter um histórico organizado de diferentes versões dos seus códigos e a trabalhar com outros desenvolvedores, visto que é possível gerar desmembramentos e junções na linha do tempo (histórico) dos arquivos.
-Se relaciona aos tópicos ...
+Se relaciona ao tópico 4.
 
 3 - VSCode
 Referência: https://en.wikipedia.org/wiki/Visual_Studio_Code
-VSCode é um editor de código e texto. Apesar de ter uma função base idêntica ao de um bloco de notas, por exemplo, o mesmo auxilia o programador no seu trabalho, organizando melhor o aspecto visual, completando pedaços de código automaticamente, etc.
-Se relaciona aos tópicos ...
+VSCode é um editor de código e texto. Apesar de ter uma função base idêntica ao de um bloco de notas, por exemplo, o mesmo auxilia o programador no seu trabalho, organizando melhor o aspecto visual, completando pedaços de código automaticamente, etc. Além disso, o VSCode é altamente personalizável e possui diversas extensões, permitindo aos desenvolvedores adaptar o ambiente de acordo com as suas necessidades específicas, através de extensões que adicionam novas funcionalidades ou suportam mais linguagens de programação.
+Se relaciona aos tópicos 4 e 9.
 
 4 - DB Browser for SQLite
 Referência: https://sqlitebrowser.org/
 É uma ferramenta visual para criação e edição de arquivos de bancos de dados.
-Se relaciona aos tópicos ...
+Se relaciona ao tópico 8.
 
 5 - Browser
 Referência: https://www.mozilla.org/en-US/firefox/browsers/what-is-a-browser/
-Um browser é um programa que te permite visualizar e interagir com o conteúdo da internet. Através de certos protocolos pré-estabelecidos, ele entende como deve gerar a visualização de um certo conteúdo que você está tentando acessar no seu dispositivo (que pode variar de um celular a uma TV). 
-Se relaciona aos tópicos ...
+Um browser é um programa que te permite visualizar e interagir com o conteúdo da internet. Ele interpreta e exibe conteúdo da web, como páginas HTML, aplicando estilos CSS e executando scripts JavaScript. Através de certos protocolos pré-estabelecidos, ele entende como deve gerar a visualização de um certo conteúdo que você está tentando acessar no seu dispositivo (que pode variar de um celular ou um computador a uma TV). 
+Se relaciona aos tópicos 1 e 9.
