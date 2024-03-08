@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" charset="utf-8">
+    <title>Exercício HTML</title>
+    <style type="text/css">
+        span {
+            color: red;
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+<h1 id="start">Exercício 1</h1>
+<div>
+    <h2>Organização de Conteúdo</h2>
+    <p>Exemplo: Os títulos acima.</p>
+</div>
+<div>
+    <h2>Tags de Conteúdo</h2>
+    <!--A tag span está sendo usada para dar um destaque especial a partes do texto -->
+    <p>Se você olhar o código desta página, verá que <span>todas as principais tags</span> estão sendo utilizadas.</p>
+    <h3>Exemplo de Lista Não Ordenada</h3>
+    <h4>Lista de Compras</h4>
+    <h5>Frutas</h5>
+    <h6>Amarelas</h6>
+    <ul>
+        <li>Banana</li>
+        <li>Abacaxi</li>
+    </ul>
+    <h6>Vermelhas</h6>
+    <ul>
+        <li>Maça</li>
+        <li>Morango</li>
+    </ul>
+    <h3>Exemplo de Lista Ordenada</h3>
+    <h4>Como Fazer Café</h4>
+    <ol>
+        <li>Aqueça a água</li>
+        <li>Coloque o filtro</li>
+        <li>Coloque o pó de café</li>
+        <li>Quando a água estiver fervendo, derrame-a lentamente por cima do pó</li>
+    </ol>
+</div>
+<div>
+    <h1>Exercício 2</h1>
+    <h3>Exemplo de Imagem:</h3>
+    <img src="Media\Ewerton_Arrais.png" alt="Foto do autor da página." width="320">
+    <p><ins>Esta página foi feita por Ewerton P. Arrais.</ins></p>
+    <h3>Exemplo de Áudio:</h3>
+    <audio controls autoplay>
+        <source src="Media/stranger-things-124008.mp3" type="audio/mpeg">
+        Seu browser não suporta a tag de áudio.
+    </audio>
+    <h3>Exemplo de Vídeo:</h3>
+    <video width="320" height="240" controls>
+        <source src="Media/video hacker.mp4" type="video/mp4">
+        Seu browser não suporta a tag de vídeo.
+    </video>
+    <h3>Exemplo de Form:</h3>
+    <form method="get">
+        <label for="name">Nome:</label><br>
+        <input type="text" id="name" name="name" size="20" /><br>
+        <label for="critica">Crítica:</label><br>
+        <textarea name="critica" id="critica" cols="20" rows="10"></textarea><br>
+        <button>Enviar</button><br>
+    </form><br>
+    <form method="post" id="form1">
+        <label for="name">Nome:</label><br>
+        <input type="text" id="name" name="name" size="20" /><br>
+        <label for="review">Review:</label><br>
+        <textarea name="review" id="review" cols="20" rows="10"></textarea><br>
+        <label for="experiencia">Como foi a sua experiência?</label><br>
+        <select name="experiencia" id="experiencia">
+            <option value="1">Insatisfeito</option>
+            <option value="2">Neutro</option>
+            <option value="3">Satisfeito</option>
+        </select><br>
+        <button type="submit" form="form1" value="Submit">Enviar</button><br>
+    </form><br>
+    <p>Obs: Clique <strong><a href="https://hortifruti.com.br/" target="_blank">aqui</a></strong> para seguir para o site do Hortifruti.</p>
+    <p>Clique <strong><a href="#start">aqui</a></strong> para voltar para o <del>início</del> <em>começo da página</em>.</p>
+</div>
+</body>
+</html>
